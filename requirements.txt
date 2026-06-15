@@ -1,0 +1,16 @@
+# Core data wrangling
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Classical machine learning
+scikit-learn
+scipy
+statsmodels
+
+# Notebook environment
+jupyterlab
+ipykernel
