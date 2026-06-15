@@ -1,5 +1,6 @@
 # End-to-End-Hotel-Booking-Cancellation-Classifier-Model
-End-to-end machine learning project predicting hotel booking cancellations on 119k+ records using feature engineering, cross-validation, and tuned ensemble models, achieving 0.9077 ROC-AUC on a held-out test set. ISOM3360_Hotel_Cancellation_Report_Final.docx
+End-to-end machine learning project predicting hotel booking cancellations on 119k+ records using feature engineering, cross-validation, and tuned ensemble models, achieving 0.9077 ROC-AUC on a held-out test set. 
+
 # Hotel Booking Cancellation Prediction
 
 This project builds a machine learning pipeline to predict whether a hotel booking will be cancelled before arrival. The task is framed as a supervised binary classification problem using the Hotel Booking Demand dataset, with `is_canceled` as the target variable. The project covers the full workflow from data cleaning and feature engineering to baseline comparison, hyperparameter tuning, and final model evaluation. [file:1]
